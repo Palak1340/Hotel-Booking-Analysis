@@ -1,4 +1,4 @@
-“”Hotel Booking Analysis - EDA Using Python and Dashboard Making Using Tableau
+**Hotel Booking Analysis - EDA Using Python and Dashboard Making Using Tableau
 
 Dashboard Preview
 ![Hotel booking Dashboard](https://github.com/user-attachments/assets/ea152338-da57-41de-91fe-dabc4ca1b5bf)
